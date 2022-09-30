@@ -1,6 +1,6 @@
 # A Stylish Menu
 
-## Just something cool and learnt for fun from a Social Media vid😄
+## Just something cool I learnt for fun from a Social Media vid😄
 
 > Built on Basic HTML & CSS: Check it out
 
